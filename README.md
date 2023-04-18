@@ -1,6 +1,7 @@
 # Stepik1
 
-### один из примеров курса
+### один из примеров курса по автоматизации
+
 import unittest
 
 class TestAbs(unittest.TestCase):
